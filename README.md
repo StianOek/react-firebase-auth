@@ -8,7 +8,9 @@
 - [x] add useContext to manage auth state
 - [x] Redirects
 - [x] Use token for protected requests
-- [ ] Protecting frontend pages
-- [ ] store token in localstorage
+- [x] Protecting frontend pages
+- [x] store token in localstorage
 - [ ] Refactor code
 - [ ] Add validation to password and email signup - regex
+
+
