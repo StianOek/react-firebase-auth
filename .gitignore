@@ -1,0 +1,11 @@
+## CLIENT
+
+/client/node_modules
+/client/common
+/client/dist
+/client/.parcel-cache
+
+## SERVER
+
+/server/node_modules
+
